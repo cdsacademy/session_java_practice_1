@@ -1,2 +1,3 @@
-# session_java_practice_1
+# CDS ACADEMY - Session Java
+
 Practice #1 for session java
