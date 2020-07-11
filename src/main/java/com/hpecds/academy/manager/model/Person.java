@@ -12,6 +12,7 @@ import javax.persistence.Id;
 public class Person implements Serializable {
     @Id
     @GeneratedValue
+    @Column
     private Integer id;
     
     @Column(length = 10, unique = true)
